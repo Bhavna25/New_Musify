@@ -10,7 +10,7 @@ function open.spotify() {
       id: uuidv4(),
       active: true,
       color: ["#501718", "#0D2122"],
-      audio: "https://open.spotify.com/track/3XQ15TDH5wMJMJr0X6u2Yc?si=3c7abb6909904840",
+      audio: "https://open.spotify.com/track/6eO9LvEiMqh1CAsa6y3wXP?si=7c679d8128a4416d",
     },
     {
       name: "Buddhu-Sa-Mann",
