@@ -3,14 +3,14 @@ import { v4 as uuidv4 } from "uuid";
 function chillHop() {
   return [
     {
-      name: "Lax Incense",
-      artist: "Mama Aiuto, Daphné",
+      name: "Bol Do Na Zara",
+      artist: "Armaan Malik",
       cover:
-        "https://chillhop.com/wp-content/uploads/2021/01/6b1bb8736ee3e972747bc11f312e31cf7f5823e4-1024x1024.jpg",
+        "https://cdn.pagalworld.icu/1298-bol-do-na-zara.jpg",
       id: uuidv4(),
       active: true,
       color: ["#501718", "#0D2122"],
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=12125",
+      audio: 01 Bol Do Na Zara (SongsMp3.Com)",
     },
     {
       name: "Plants",
