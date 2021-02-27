@@ -13,14 +13,14 @@ function chillHop() {
       audio: "https://open.spotify.com/track/3XQ15TDH5wMJMJr0X6u2Yc?si=3c7abb6909904840",
     },
     {
-      name: "Plants",
-      artist: "Philanthrope, Ian Ewing, Sleepy Fish",
+      name: "Buddhu-Sa-Mann",
+      artist: "Armaan Malik",
       cover:
         "https://cdn.pagalworld.icu/1276-buddhu-sa-mann-small.jpg",
       id: uuidv4(),
       active: false,
       color: ["#865446", "#C3AB8D"],
-      audio: "https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB?si=b6bd228a539e4ddc",
+      audio: "https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB?si=0a18d9415b9242e7",
     },
     {
       name: "After Dark",
