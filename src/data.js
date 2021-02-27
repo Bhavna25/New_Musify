@@ -1,6 +1,6 @@
 import { v4 as uuidv4 } from "uuid";
 
-function open.spotify() {
+function spotify() {
   return [
     {
       name: "Bol Do Na Zara",
@@ -105,4 +105,4 @@ function open.spotify() {
   ];
 }
 
-export default open.spotify;
+export default spotify;
