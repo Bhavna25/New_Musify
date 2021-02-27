@@ -16,11 +16,11 @@ function chillHop() {
       name: "Plants",
       artist: "Philanthrope, Ian Ewing, Sleepy Fish",
       cover:
-        "https://chillhop.com/wp-content/uploads/2020/09/2899f7cc22ab12e17d0119819aac3ca9dbab46e6-1024x1024.jpg",
+        "https://cdn.pagalworld.icu/1276-buddhu-sa-mann-small.jpg",
       id: uuidv4(),
       active: false,
       color: ["#865446", "#C3AB8D"],
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=8036",
+      audio: "https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB?si=b6bd228a539e4ddc",
     },
     {
       name: "After Dark",
