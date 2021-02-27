@@ -10,7 +10,7 @@ function chillHop() {
       id: uuidv4(),
       active: true,
       color: ["#501718", "#0D2122"],
-      audio: "https://pwdown.com/10541/01%20Bol%20Do%20Na%20Zara%20-%20Azhar%20-%20Armaan%20Malik%20-%20190kbps.mp3",
+      audio: "https://open.spotify.com/track/3XQ15TDH5wMJMJr0X6u2Yc?si=3c7abb6909904840",
     },
     {
       name: "Plants",
