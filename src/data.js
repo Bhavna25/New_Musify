@@ -105,4 +105,4 @@ function spotify() {
   ];
 }
 
-export default chillHop;
+export default spotify;
