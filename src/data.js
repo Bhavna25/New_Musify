@@ -100,7 +100,7 @@ function spotify() {
       id: uuidv4(),
       active: false,
       color: ["#E2C6D4", "#133362"],
-      audio: "https://open.spotify.com/album/4KFEHvkGVZCLQ2vJM6tlh1?highlight=spotify:track:4n1fgIJ6WtHxfBimbDav8v",
+      audio: "https://open.spotify.com/track/4n1fgIJ6WtHxfBimbDav8v?si=bf69512803074589",
     },
   ];
 }
