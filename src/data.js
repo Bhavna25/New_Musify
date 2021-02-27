@@ -10,7 +10,7 @@ function chillHop() {
       id: uuidv4(),
       active: true,
       color: ["#501718", "#0D2122"],
-      audio: 01 Bol Do Na Zara (SongsMp3.Com)",
+      audio: "https://gaana.com/song/bol-do-na-zara",
     },
     {
       name: "Plants",
